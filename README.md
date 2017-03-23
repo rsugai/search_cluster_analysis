@@ -4,6 +4,6 @@
 - python 3.5.x ( Recommend to use Anaconda )
 
 ## How to use
-1. Clonse this repo.
-`$ git clone https://github.com/rsugai/search_cluster_analysis.git`
+1. Clonse this repo. `$ git clone https://github.com/rsugai/search_cluster_analysis.git`
 
+2. start jupyter-notebook
